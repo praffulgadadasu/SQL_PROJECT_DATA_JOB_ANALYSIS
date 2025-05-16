@@ -96,7 +96,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-![Top Paying Roles](assets\top10_data_analyst_jobs.jpg)
+![Top Paying Roles](assets/top10_data_analyst_jobs.jpg)
 *This chart shows the top 10 highest-paying remote Data Analyst jobs by average yearly salary, grouped by job type. Full-time and contract roles offer the highest pay, up to $650,000 per year.*
 
 ## Query 2
@@ -136,7 +136,7 @@ ORDER BY
     top_paying_jobs.salary_year_avg DESC;
 
 ```
-![Top Analysts Skills](assets\top10_analyst_skills.jpg)
+![Top Analysts Skills](assets/top10_analyst_skills.jpg)
 *This chart shows the top 10 highest-paying remote Data Analyst jobs, highlighting the required skills for each role. Most high-paying positions demand strong SQL abilities, often paired with Python, Power BI, and other specialized tools.*
 
 ## Query 3
@@ -162,7 +162,7 @@ ORDER BY
   demand_count DESC
 LIMIT 5;
 ```
-![Top 5 Skills for DA](assets\top5_data_analyst_skills.jpg)
+![Top 5 Skills for DA](assets/top5_data_analyst_skills.jpg)
 *This chart illustrates the five most sought-after skills for Data Analyst positions. SQL is the most in-demand skill, followed by Excel, Python, Power BI, and Tableau.*
 
 ## Query 4
@@ -189,7 +189,7 @@ ORDER BY
   avg_salary DESC;
 
 ```
-![Top 5 Highest Paying skills](assets\top5_highest_paying_skills.jpg)
+![Top 5 Highest Paying skills](assets/top5_highest_paying_skills.jpg)
 *This chart shows which technical skills are linked to the highest average salaries for Data Analyst roles. Specialized skills like Solidity and SVN are associated with premium pay, while Power BI, Python, and Tableau also offer strong earning potential.*
 
 ## Query 5
@@ -244,7 +244,7 @@ ORDER BY
   avg_salary DESC
 LIMIT 10;
 ```
-![Top Optimal Skills With Remote](assets\top10_skills_remote_analyst.jpg)
+![Top Optimal Skills With Remote](assets/top10_skills_remote_analyst.jpg)
 *This chart highlights the 10 most sought-after skills for remote Data Analyst roles, showing both the number of job postings and the average salary for each skill. SQL and Python lead in demand, while niche skills like Solidity and SVN command higher average salaries.*
 
 ## Sample Results Preview
