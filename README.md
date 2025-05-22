@@ -267,12 +267,37 @@ This project is a demonstration of how powerful simple queries can be when combi
 
 ### **What I Learned**
 
-Throughout this project, I honed several key SQL techniques and skills:
+### **What I Learned**
 
-- **Complex Query Construction**: Learning to build advanced SQL queries that combine multiple tables and employ functions like **`WITH`** clauses for temporary tables.
-- **Data Aggregation**: Utilizing **`GROUP BY`** and aggregate functions like **`COUNT()`** and **`AVG()`** to summarize data effectively.
-- **Analytical Thinking**: Developing the ability to translate real-world questions into actionable SQL queries that got insightful answers.
+Throughout this project, I significantly deepened my SQL expertise, including:
 
+- **Complex Query Construction**  
+  - Mastered advanced `JOIN` operations (INNER, LEFT, RIGHT, FULL OUTER) across multiple tables for richer data relationships.
+  - Developed complex filtering using nested subqueries and window functions.
+
+- **CTEs and Window Functions**  
+  - Utilized **Common Table Expressions (CTEs)** with the `WITH` clause to modularize and structure complicated queries for better readability and maintainability.
+  - Applied **window functions** like `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, and `OVER(PARTITION BY ...)` to create running totals, rankings, and group-wise calculations.
+
+- **Data Aggregation & Analysis**  
+  - Used aggregation functions (`SUM()`, `AVG()`, `COUNT()`, `MIN()`, `MAX()`) combined with `GROUP BY` and `HAVING` to extract deep insights and spot trends in large datasets.
+  - Built queries to analyze salary distributions, skill frequencies, and job market trends by various categories.
+
+- **Advanced Filtering and Case Logic**  
+  - Leveraged complex `CASE WHEN` statements for conditional logic and custom grouping within queries.
+  - Employed date functions and string manipulation to preprocess and clean raw data.
+
+- **Performance Optimization**  
+  - Improved query performance by optimizing joins, using indexes, and avoiding unnecessary subqueries.
+  - Applied query profiling techniques to troubleshoot and streamline slow SQL queries.
+
+- **Data Transformation & Preparation**  
+  - Transformed and pivoted data using SQL (including `PIVOT`/`UNPIVOT` in some DBMS) to facilitate reporting and visualization.
+  - Designed queries that output clean, analysis-ready tables for downstream BI tools.
+
+- **Real-World Problem Solving**  
+  - Translated business and analytical questions into actionable SQL queries.
+  - Developed end-to-end analytical workflows, from raw data ingestion to actionable dashboards.
 ---
 
 ### **Insights**
