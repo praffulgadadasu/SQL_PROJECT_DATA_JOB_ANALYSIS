@@ -264,9 +264,6 @@ SQL remains the backbone of data analysis in the job market.
 This project is a demonstration of how powerful simple queries can be when combined with real datasets and a problem-solving mindset.
 
 ---
-
-### **What I Learned**
-
 ### **What I Learned**
 
 Throughout this project, I significantly deepened my SQL expertise, including:
